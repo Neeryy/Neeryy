@@ -21,6 +21,6 @@
 
 <div>
     <a href="mailto:raphaelsantos.jan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/raphael-sampaio-52475622b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-nery-24904b181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://jaencontrei.com"><img src="https://img.shields.io/badge/Wordpress-BA55D3?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
 </div>
