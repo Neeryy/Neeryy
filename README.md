@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-guilhermerfc.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerfc.contato@gmail.com)](mailto:guilhermerfc.contato@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielnerry894@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnery894@gmail.com)](mailto:gabrielnery894@gmail.com)
 
 ## :tools: Technologies
 
